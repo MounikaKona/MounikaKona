@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Latha Kona</h1>
-<h3 align="center">A passionate data analyst currently working as Finance Data analyst at Operations and Business services - Geroge Mason University.</h3>
+<h3 align="center">A passionate grad student currently working as Finance Data analyst at Operations and Business services - Geroge Mason University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mounikakona&label=Profile%20views&color=0e75b6&style=flat" alt="mounikakona" /> </p>
 
